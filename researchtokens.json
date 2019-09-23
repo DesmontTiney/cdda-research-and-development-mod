@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fabtoken1",
+    "type": "TOOL",
+    "name": "fabtoken1",
+    "name_plural": "fabtoken1",
+    "description": "to do",
+    "weight": 75,
+    "volume": 0,
+    "price": 0,
+    "to_hit": -3,
+    "material": "paper",
+    "symbol": "]",
+    "color": "red",
+    "flags": [ "TRADER_AVOID" ]
+  }
+]
