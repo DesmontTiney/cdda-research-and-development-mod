@@ -3,7 +3,7 @@
     "type": "MOD_INFO",
     "ident": "researchanddev",
     "name": "Research and Development",
-    "authors": [ "Desmont" ],
+    "authors": [ "Desmont", "Ornolf" ],
     "description": "Adds a new skill and crafting trees to the game, with the intent of simulating research",
     "category": "misc_additions",
     "dependencies": [ "dda" ]
