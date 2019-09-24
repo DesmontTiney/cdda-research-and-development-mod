@@ -1,0 +1,15 @@
+[
+  {
+    "id": "book_monstercompendium",
+    "type": "BOOK",
+    "name": "Compendium of Monsters(Zombies)",
+    "name_plural": "Monster Compendiums",
+    "description": "A thick ring-bound tome full of scientific notes and research centered mainly on the strange reanimated beings that have appeared",
+    "weight": 454,
+    "volume": 5,
+    "price": 9000,
+    "material": [ "paper" ],
+    "symbol": "S",
+    "color": "light_gray"
+  }
+]
